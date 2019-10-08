@@ -1,4 +1,4 @@
-# EjemploReconocimientoFacil
+# EjemploReconocimientoFacial
 Proyecto de ejemplo utilizando face-api.js
 
 Para su ejecución correr el comando: 
